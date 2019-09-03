@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/AliyunContainerService/csi-plugin.svg?branch=master)](https://travis-ci.org/AliyunContainerService/csi-plugin)
 [![CircleCI](https://circleci.com/gh/AliyunContainerService/csi-plugin.svg?style=svg)](https://circleci.com/gh/AliyunContainerService/csi-plugin)
 [![Go Report Card](https://goreportcard.com/badge/github.com/AliyunContainerService/csi-plugin)](https://goreportcard.com/report/github.com/AliyunContainerService/csi-plugin)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcsi-plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcsi-plugin?ref=badge_shield)
 
 English | [简体中文](./README-zh_CN.md)
 
@@ -99,3 +100,7 @@ Please submit an issue at: [Issues](https://github.com/AliyunContainerService/cs
 ## Community
 Join DingTalk group by the QR code below:
 ![](./docs/ding_group.jpg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcsi-plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fcsi-plugin?ref=badge_large)
